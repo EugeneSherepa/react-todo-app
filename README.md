@@ -2,11 +2,8 @@
 
 [DEMO LINK](https://mvc-todo-application.vercel.app/)
 
-[REFERENCE](https://todomvc.com/examples/typescript-react/#/)
-
 This is a simple Todo Application built using React, React Router, TypeScript, and Sass (SCSS). It allows users to manage their tasks by adding, removing, and editing todos. The application is integrated with the Mate Academy API to store and retrieve todo data.
 
-https://github.com/ruslanpashkov/mvc-todo-application/assets/129327901/4a9664d4-f637-4fea-84ad-7bea2a61a4e7
 
 ## Features
 
@@ -40,7 +37,3 @@ This application is integrated with the Mate Academy API to manage todo data. Th
 - [React](https://react.dev/)
 - [React Router](https://reactrouter.com/)
 - [Sass (SCSS)](https://sass-lang.com/)
-
-## License
-
-This project is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
