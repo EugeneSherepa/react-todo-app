@@ -1,6 +1,6 @@
 # MVC Todo Application
 
-[DEMO LINK](https://mvc-todo-application.vercel.app/)
+[DEMO LINK](https://eugenesherepa.github.io/todo-app/)
 
 This is a simple Todo Application built using React, React Router, TypeScript, and Sass (SCSS). It allows users to manage their tasks by adding, removing, and editing todos. The application is integrated with the Mate Academy API to store and retrieve todo data.
 
